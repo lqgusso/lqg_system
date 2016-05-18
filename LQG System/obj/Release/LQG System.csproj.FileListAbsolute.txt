@@ -1,0 +1,17 @@
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\bin\Release\LQG System.exe.config
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\bin\Release\LQG System.exe
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\bin\Release\LQG System.pdb
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\LQG_System.Forms.frmCliente.resources
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\LQG_System.Forms.frmLogin.resources
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\LQG_System.Forms.frmOS.resources
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\LQG_System.Forms.frmPrincipal.resources
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\LQG_System.Forms.frmRelCliente.resources
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\LQG_System.Forms.frmRelOS.resources
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\LQG_System.Forms.frmUsuario.resources
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\LQG_System.Properties.Resources.resources
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\LQG System.csproj.GenerateResource.Cache
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\RdlCompile.cache
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\RdlCompile.compiled
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\LQG System.exe
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\LQG System.pdb
+d:\onedrive\documents\visual studio 2013\Projects\LQG System\LQG System\obj\Release\LQG System.csprojResolveAssemblyReference.cache
